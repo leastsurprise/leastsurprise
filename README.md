@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @leastsurprise
-- 👀 I’m interested in R, Python, NZ property (LINZ dataset), Entity Resolution 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any of my open repos
-- 📫 You can reach me by email at mtespam at gmail dot com
+- 👀 I’m interested in AI, Python, NZ property (LINZ dataset), Entity Resolution, Lineage, Graphs
+- 📫 You can reach me by email at michael dot t dot emslie at gmail dot com
 
 <!---
 leastsurprise/leastsurprise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
